@@ -79,7 +79,7 @@ AWA eliminates these issues by ensuring:
 
 1. Authenticator checks for a locally stored encrypted `MASTER_SUB`.  
     - If found → decrypts using passkey / biometric.  
-    - **If not → initiates eID-based flow to refetches the MASTER_SUB and saves it locally.**  
+    - **If not → initiates eID-based flow to refetch the MASTER_SUB and saves it locally.**  
 2. Computes:
 ```
 PAIRWISE_SUB = SHA-256(MASTER_SUB + RP_TopDomain)
