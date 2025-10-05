@@ -234,8 +234,8 @@ License – *CC BY 4.0 / Open Identity Standard Draft*
 
 
 CONCLUSION:
-The main idea is that a device authenticates proof (and consistency) of humanity via a national eID.
-The RP then authenticates that it’s the same human via the authenticator (the authenticated device).
+The main idea is that a device strongly authenticates proof (and consistency) of pseudonymous humanity/identity via a national eID.
+The RP then authenticates that "it’s this human" || "the same human as last-time" via the authenticator (the pseudonymously human/identity-bound authenticator).
 
 The best option could be to store the master seed at the OS level, encrypted via a passkey or hardware token, and integrate it directly into the existing WebAuthn flow.
 What this solution provides is a much stronger foundation for authentication, cross-device continuity, and long-term reliability.
