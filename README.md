@@ -231,3 +231,13 @@ Each interaction is proof of human authenticity, not identity.
 Author – *Jori Lehtinen*  
 Date – *October 2025*  
 License – *CC BY 4.0 / Open Identity Standard Draft*
+
+
+CONCLUSION:
+The main idea is that a device authenticates proof of humanity via a national eID.
+The RP then authenticates that it’s the same human via the authenticator (the authenticated device).
+
+The best option could be to store the master seed at the OS level, encrypted via a passkey or hardware token, and integrate it directly into the existing WebAuthn flow.
+What this solution provides is a much stronger foundation for authentication, cross-device continuity, and long-term reliability.
+
+Personally, as a junior developer, this would give me great confidence in providing services with zero recoverability concerns, no compliance overhead, no account fraud, and none of the usual identity management headaches — it would just be perfect.
