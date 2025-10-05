@@ -234,10 +234,10 @@ License – *CC BY 4.0 / Open Identity Standard Draft*
 
 
 CONCLUSION:
-The main idea is that a device strongly authenticates proof (and consistency) of pseudonymous humanity/identity via a national eID.
-The RP then authenticates that "it’s this human" || "the same human as last-time" via the authenticator (the pseudonymously human/identity-bound authenticator).
+The core idea of AWA is that a device — pseudonymously bound to its human owner — authenticates proof and consistency of humanity through a national eID. The relying party (RP) then verifies that it’s the same human as before via this authenticator.
 
-The best option could be to store the master seed at the OS level, encrypted via a passkey or hardware token, and integrate it directly into the existing WebAuthn flow.
-What this solution provides is a much stronger foundation for authentication, cross-device continuity, and long-term reliability.
+The strongest implementation would store the master seed at the operating system level, encrypted with a passkey or hardware token, and integrate it directly into the existing WebAuthn flow.
 
-Personally, as a junior developer, this would give me great confidence in providing services with zero recoverability concerns, no compliance overhead, no account fraud, and none of the usual identity management headaches — it would just be perfect.
+This creates a durable foundation for authentication — consistent across devices, resilient over time, and immune to recovery attacks, compliance friction, and identity fraud.
+
+Personally, as a junior developer, this concept would give me real confidence to build services, a system with zero recoverability concerns, no compliance overhead, no account fraud, and none of the usual identity-management pain. Permanent effortless proof of "what human", it would just be perfect.
